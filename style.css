@@ -1,0 +1,7 @@
+.row{
+    margin: 0;
+}
+.scroll-wrapper{
+    overflow-x: auto scroll;
+    overflow-y: hidden;
+}
